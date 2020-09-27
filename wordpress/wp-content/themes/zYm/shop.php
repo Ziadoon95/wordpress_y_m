@@ -27,15 +27,15 @@
 
   <body>
     <div id="site-content">
-      <header class="site-header">
+      <!-- <header class="site-header">
         <div class="container">
           <a href="index.html" id="branding">
             <img src="dummy/logo.png" alt="Site Title" />
             <small class="site-description">Slogan goes here</small>
-          </a>
+          </a> -->
           <!-- #branding -->
 
-          <nav class="main-navigation">
+        <!--   <nav class="main-navigation">
             <button type="button" class="toggle-menu">
               <i class="fa fa-bars"></i>
             </button>
@@ -48,13 +48,13 @@
               </li>
               <li class="menu-item"><a href="blog.html">Blog</a></li>
               <li class="menu-item"><a href="contact.html">Contact</a></li>
-            </ul>
+            </ul> -->
             <!-- .menu -->
-          </nav>
+         <!--  </nav> -->
           <!-- .main-navigation -->
-          <div class="mobile-menu"></div>
+         <!--  <div class="mobile-menu"></div>
         </div>
-      </header>
+      </header> -->
       <!-- .site-header -->
 
       <main class="main-content">

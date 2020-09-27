@@ -4,7 +4,9 @@
 <div class="row">
 <div class="col-md-12">
 <div class="content">
-<h2 class="entry-title"><?php the_title();?></h2>
+<h2 class="entry-title"><?php 
+
+the_title();?></h2>
 <?php the_content();?>
 </div>
 </div>

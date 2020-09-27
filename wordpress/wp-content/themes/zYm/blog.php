@@ -27,34 +27,34 @@
 
   <body>
     <div id="site-content">
-      <header class="site-header">
+      <!-- <header class="site-header">
         <div class="container">
-          <a href="index.html" id="branding">
+          <a href="index.php" id="branding">
             <img src="dummy/logo.png" alt="Site Title" />
             <small class="site-description">Slogan goes here</small>
-          </a>
+          </a> -->
           <!-- #branding -->
 
-          <nav class="main-navigation">
+        <!--   <nav class="main-navigation">
             <button type="button" class="toggle-menu">
               <i class="fa fa-bars"></i>
             </button>
             <ul class="menu">
-              <li class="menu-item"><a href="index.html">Home</a></li>
-              <li class="menu-item"><a href="about.html">About</a></li>
-              <li class="menu-item"><a href="gallery.html">Gallery</a></li>
-              <li class="menu-item"><a href="shop.html">Shop</a></li>
+              <li class="menu-item"><a href="index.php">Home</a></li>
+              <li class="menu-item"><a href="about">About</a></li>
+              <li class="menu-item"><a href="gallery.php">Gallery</a></li>
+              <li class="menu-item"><a href="shop.php">Shop</a></li>
               <li class="menu-item current-menu-item">
-                <a href="blog.html">Blog</a>
+                <a href="blog.php">Blog</a>
               </li>
-              <li class="menu-item"><a href="contact.html">Contact</a></li>
-            </ul>
+              <li class="menu-item"><a href="contact.php">Contact</a></li>
+            </ul> -->
             <!-- .menu -->
-          </nav>
+          <!-- </nav> -->
           <!-- .main-navigation -->
-          <div class="mobile-menu"></div>
+      <!--     <div class="mobile-menu"></div>
         </div>
-      </header>
+      </header> -->
       <!-- .site-header -->
 
       <main class="main-content">

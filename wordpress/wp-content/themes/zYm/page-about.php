@@ -1,61 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1.0,maximum-scale=1"
-    />
+<?php 
+get_header();
+echo "about page";
+?>
 
-    <title>About Us| Band Template</title>
-    <!-- Loading third party fonts -->
-    <link
-      href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,900"
-      rel="stylesheet"
-      type="text/css"
-    />
-    <link href="fonts/font-awesome.min.css" rel="stylesheet" type="text/css" />
-    <!-- Loading main css file -->
-    <link rel="stylesheet" href="style.css" />
-
-    <!--[if lt IE 9]>
-      <script src="js/ie-support/html5.js"></script>
-      <script src="js/ie-support/respond.js"></script>
-    <![endif]-->
-  </head>
-
-  <body>
-    <div id="site-content">
-      <header class="site-header">
-        <div class="container">
-          <a href="index.html" id="branding">
-            <img src="dummy/logo.png" alt="Site Title" />
-            <small class="site-description">Slogan goes here</small>
-          </a>
-          <!-- #branding -->
-
-          <nav class="main-navigation">
-            <button type="button" class="toggle-menu">
-              <i class="fa fa-bars"></i>
-            </button>
-            <ul class="menu">
-              <li class="menu-item"><a href="index.html">Home</a></li>
-              <li class="menu-item current-menu-item">
-                <a href="about.html">About</a>
-              </li>
-              <li class="menu-item"><a href="gallery.html">Gallery</a></li>
-              <li class="menu-item"><a href="shop.html">Shop</a></li>
-              <li class="menu-item"><a href="blog.html">Blog</a></li>
-              <li class="menu-item"><a href="contact.html">Contact</a></li>
-            </ul>
-            <!-- .menu -->
-          </nav>
-          <!-- .main-navigation -->
-          <div class="mobile-menu"></div>
-        </div>
-      </header>
-      <!-- .site-header -->
 
       <main class="main-content">
         <div class="fullwidth-block inner-content">
@@ -209,4 +156,3 @@
     <script src="js/plugins.js"></script>
     <script src="js/app.js"></script>
   </body>
-</html>
